@@ -1,0 +1,6 @@
+License
+"CC BY-NC-SA 4.0"
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+How to Cite
+"Ookla® 5G Map Data was provided by Ookla and accessed on [DAY MONTH YEAR] from [https://www.speedtest.net/ookla-5g-map]. Based on [LICENSEE’S] analysis of Ookla® 5G Map Data. Ookla trademarks used under license and reprinted with permission."
